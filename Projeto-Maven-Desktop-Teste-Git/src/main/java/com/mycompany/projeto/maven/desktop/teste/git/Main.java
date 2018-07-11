@@ -12,6 +12,6 @@ package com.mycompany.projeto.maven.desktop.teste.git;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Olá mundo555!");
+        System.out.println("Olá mundo555!");
     }
 }
